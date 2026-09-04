@@ -28,7 +28,7 @@ Below is a live deployment capture of the PyGuard Threat Engine parsing an unenc
 ![PyGuard Application Workspace Running](./assets/screenshot.png)
 
 * **📁 Local Directory Assets:** 
-  * [View Verified Program Certificate Document (PDF)](./assets/vanderbilt_certificate.pdf)
+  ![Vanderbilt Program Certificate Document](./assets/vanderbilt_certificate.png)
 
 ---
 
